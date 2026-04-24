@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deck-patio-builder-tampa-fl.netlify.app/sitemap.xml
